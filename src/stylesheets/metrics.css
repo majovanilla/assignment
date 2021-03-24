@@ -1,0 +1,28 @@
+.dashboard {
+  max-width: 600px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 50px;
+  margin: auto;
+}
+
+.card {
+  width: 250px;
+  height: 200px;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  background: rgba(000, 000, 000, 0.2);
+}
+
+.title {
+  color: rgb(21, 21, 126);
+}
+
+.data {
+  color: rgb(0, 114, 152);
+  font-weight: bold;
+  font-size: 16px;
+}
